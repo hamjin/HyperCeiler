@@ -24,7 +24,7 @@ import android.provider.Settings
 import android.service.notification.StatusBarNotification
 import android.widget.ImageView
 import com.sevtinge.hyperceiler.hook.module.base.BaseHook
-import com.sevtinge.hyperceiler.hook.module.rules.systemui.base.api.Dependency.getDependencyInner
+import com.sevtinge.hyperceiler.hook.module.rules.systemui.base.api.Dependency
 import com.sevtinge.hyperceiler.hook.utils.devicesdk.isMoreAndroidVersion
 import com.sevtinge.hyperceiler.hook.utils.getObjectFieldOrNull
 import com.sevtinge.hyperceiler.hook.utils.getObjectFieldOrNullAs
@@ -66,23 +66,25 @@ object RedirectToNotificationChannelSetting : BaseHook() {
                     val mIcon = mInfoItem.getObjectFieldOrNullAs<ImageView>("mIcon") ?: return@after
                     mIcon.setOnClickListener {
                         startChannelNotificationSettings(mSbn)
-
                         runCatching {
                             if (!isMoreAndroidVersion(36)) {
-                                val modalController = getDependencyInner(clazzModalController)
-                                    ?: return@setOnClickListener
+                                val modalController =
+                                    Dependency.getDependencyInner(clazzModalController)
+                                        ?: return@setOnClickListener
                                 invokeMethodBestMatch(
                                     modalController, "animExitModal", null, 50L, true, "MORE", false
                                 )
                             }
                             val commandQueue =
-                                getDependencyInner(clazzCommandQueue) ?: return@setOnClickListener
+                                Dependency.getDependencyInner(clazzCommandQueue)
+                                    ?: return@setOnClickListener
                             invokeMethodBestMatch(
                                 commandQueue, "animateCollapsePanels", null, 0, false
                             )
                         }.onFailure {
-                            logW(TAG, lpparam.packageName, "getDependencyInner find failed", it)
+                            logW(TAG, lpparam.packageName, "RedirectToNotificationChannelSetting: ", it)
                         }
+
                     }
                 }
             }
