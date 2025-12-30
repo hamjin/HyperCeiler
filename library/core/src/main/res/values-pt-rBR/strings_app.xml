@@ -1012,12 +1012,10 @@
     <!--System launcher-->
     <string name="home_gesture">Gestos e navegação</string>
     <string name="home_navigation_title">Navegação</string>
-    <string name="home_navigation_quick_back">Voltar ao app anterior</string>
     <string name="home_navigation_assist_left_slide">Deslizar no canto inferior esquerdo</string>
     <string name="home_navigation_assist_right_slide">Deslizar no canto inferior direito</string>
     <string name="home_navigation_assist_left_slide_desc">Deslize para dentro a partir do canto inferior esquerdo da tela</string>
     <string name="home_navigation_assist_right_slide_desc">Deslize para dentro a partir do canto inferior direito da tela</string>
-    <string name="home_navigation_quick_back_more">Deslize pela tela começando pela borda para voltar ao app anterior</string>
     <string name="home_navigation_disable_full_screen_back_gesture">Desativar gesto de retorno em tela cheia</string>
     <string name="home_navigation_back_area_height">Altura da área do gesto de retorno</string>
     <string name="home_navigation_back_area_width">Largura da área do gesto de retorno</string>

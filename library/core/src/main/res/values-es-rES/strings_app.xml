@@ -804,12 +804,10 @@ aplicaciones del sistema</string>
     <!--System launcher-->
     <string name="home_gesture">Gestos y Navegación</string>
     <string name="home_navigation_title">Navegación</string>
-    <string name="home_navigation_quick_back">Vuelve a la aplicación anterior</string>
     <string name="home_navigation_assist_left_slide">Deslizamiento desde la esquina inferior izquierda</string>
     <string name="home_navigation_assist_right_slide">Deslizamiento desde la esquina inferior derecha</string>
     <string name="home_navigation_assist_left_slide_desc">Deslizar la pantalla con el dedo desde la esquina inferior izquierda</string>
     <string name="home_navigation_assist_right_slide_desc">Deslizar la pantalla con el dedo desde la esquina inferior derecha</string>
-    <string name="home_navigation_quick_back_more">Deslizar por la pantalla desde el borde para volver a la aplicación anterior</string>
     <string name="home_navigation_back_area_height">Altura del gesto de volver</string>
     <string name="home_navigation_back_area_width">Anchura del gesto de volver</string>
     <string name="home_gesture_title2">Gestos</string>

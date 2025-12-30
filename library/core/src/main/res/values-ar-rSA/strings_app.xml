@@ -1004,12 +1004,10 @@
     <!--System launcher-->
     <string name="home_gesture">الإيماءات والملاحة</string>
     <string name="home_navigation_title">الملاحة</string>
-    <string name="home_navigation_quick_back">الرجوع إلى التطبيق السابق</string>
     <string name="home_navigation_assist_left_slide">التمرير من أسفل الزاوية اليسرى</string>
     <string name="home_navigation_assist_right_slide">التمرير من أسفل الزاوية اليمنى</string>
     <string name="home_navigation_assist_left_slide_desc">مرر للأعلى من الزاوية اليسرى السفلية للشاشة</string>
     <string name="home_navigation_assist_right_slide_desc">مرر للأعلى من الزاوية اليمنى السفلية للشاشة</string>
-    <string name="home_navigation_quick_back_more">مرر عبر الشاشة بدءًا من الحافة للرجوع إلى التطبيق السابق</string>
     <string name="home_navigation_disable_full_screen_back_gesture">تعطيل الإيماءات الخلفية للشاشة الكاملة</string>
     <string name="home_navigation_back_area_height">ارتفاع منطقة الإيماءة للرجوع</string>
     <string name="home_navigation_back_area_width">عرض منطقة الإيماءة للرجوع</string>

@@ -719,12 +719,10 @@
     <!--System launcher-->
     <string name="home_gesture">Gesti e navigazione</string>
     <string name="home_navigation_title">Navigazione</string>
-    <string name="home_navigation_quick_back">Torna all\'app precedente</string>
     <string name="home_navigation_assist_left_slide">Scorrimento nell\'angolo in basso a sinistra</string>
     <string name="home_navigation_assist_right_slide">Scorrimento nell\'angolo in basso a destra</string>
     <string name="home_navigation_assist_left_slide_desc">Scorri verso l\'interno dall\'angolo in basso a sinistra dello schermo</string>
     <string name="home_navigation_assist_right_slide_desc">Scorri verso l\'interno dall\'angolo in basso a destra dello schermo</string>
-    <string name="home_navigation_quick_back_more">Scorri sullo schermo partendo dal bordo per tornare all\'app precedente</string>
     <string name="home_navigation_back_area_height">Altezza area gesto indietro</string>
     <string name="home_navigation_back_area_width">Larghezza area gesto indietro</string>
     <string name="home_gesture_title2">Gesto</string>

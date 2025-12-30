@@ -1020,12 +1020,10 @@
     <!--System launcher-->
     <string name="home_gesture">Cử chỉ</string>
     <string name="home_navigation_title">Điều hướng</string>
-    <string name="home_navigation_quick_back">Quay lại ứng dụng trước</string>
     <string name="home_navigation_assist_left_slide">Trượt từ góc dưới bên trái</string>
     <string name="home_navigation_assist_right_slide">Trượt từ góc dưới bên phải</string>
     <string name="home_navigation_assist_left_slide_desc">Vuốt màn hình từ góc dưới bên trái</string>
     <string name="home_navigation_assist_right_slide_desc">Vuốt màn hình từ góc dưới bên phải</string>
-    <string name="home_navigation_quick_back_more">Vuốt từ cạnh màn hình để quay lại ứng dụng trước</string>
     <string name="home_navigation_disable_full_screen_back_gesture">Tắt cử chỉ vuốt toàn màn hình để quay lại</string>
     <string name="home_navigation_back_area_height">Chiều cao khu vực cử chỉ quay lại</string>
     <string name="home_navigation_back_area_width">Chiều rộng khu vực cử chỉ quay lại</string>

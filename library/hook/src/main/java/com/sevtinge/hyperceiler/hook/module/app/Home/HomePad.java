@@ -37,7 +37,6 @@ import com.sevtinge.hyperceiler.hook.module.rules.home.folder.FolderColumns;
 import com.sevtinge.hyperceiler.hook.module.rules.home.folder.FolderVerticalSpacing;
 import com.sevtinge.hyperceiler.hook.module.rules.home.gesture.CornerSlide;
 import com.sevtinge.hyperceiler.hook.module.rules.home.gesture.HotSeatSwipe;
-import com.sevtinge.hyperceiler.hook.module.rules.home.gesture.QuickBack;
 import com.sevtinge.hyperceiler.hook.module.rules.home.gesture.ShakeDevice;
 import com.sevtinge.hyperceiler.hook.module.rules.home.layout.HotSeatsHeight;
 import com.sevtinge.hyperceiler.hook.module.rules.home.layout.HotSeatsMarginBottom;
@@ -94,7 +93,6 @@ public class HomePad extends BaseModule {
     @Override
     public void handleLoadPackage() {
         // 手势
-        initHook(new QuickBack(), mPrefsMap.getBoolean("home_navigation_quick_back"));
         initHook(new CornerSlide(),
             mPrefsMap.getInt("home_navigation_assist_left_slide_action", 0) > 0 ||
                 mPrefsMap.getInt("home_navigation_assist_right_slide_action", 0) > 0

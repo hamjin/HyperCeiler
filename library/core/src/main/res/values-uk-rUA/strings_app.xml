@@ -968,12 +968,10 @@
     <!--System launcher-->
     <string name="home_gesture">Жести та навігація</string>
     <string name="home_navigation_title">Навігація</string>
-    <string name="home_navigation_quick_back">Повернутися до попереднього додатка</string>
     <string name="home_navigation_assist_left_slide">Проведення з лівого нижнього кута</string>
     <string name="home_navigation_assist_right_slide">Проведення з правого нижнього кута</string>
     <string name="home_navigation_assist_left_slide_desc">Проведіть пальцем всередину з лівого нижнього кута екрана</string>
     <string name="home_navigation_assist_right_slide_desc">Проведіть пальцем всередину з правого нижнього кута екрана</string>
-    <string name="home_navigation_quick_back_more">Проведіть по екрану, починаючи з краю, щоб повернутися до попереднього додатка</string>
     <string name="home_navigation_back_area_height">Висота зони жесту \"Назад\"</string>
     <string name="home_navigation_back_area_width">Ширина зони жесту \"Назад\"</string>
     <string name="home_gesture_title2">Жест</string>

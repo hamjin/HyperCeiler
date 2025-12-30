@@ -927,12 +927,10 @@
     <!--System launcher-->
     <string name="home_gesture">Gesty i nawigacja</string>
     <string name="home_navigation_title">Nawigacja</string>
-    <string name="home_navigation_quick_back">Wróć do poprzedniej aplikacji</string>
     <string name="home_navigation_assist_left_slide">Przesunięcie w lewy dolny róg</string>
     <string name="home_navigation_assist_right_slide">Przesunięcie w prawy dolny róg</string>
     <string name="home_navigation_assist_left_slide_desc">Przesuń w głąb ekranu z lewego dolnego rogu</string>
     <string name="home_navigation_assist_right_slide_desc">Przesuń w głąb ekranu z prawego dolnego rogu</string>
-    <string name="home_navigation_quick_back_more">Przesuń po ekranie zaczynając od krawędzi, aby wrócić do poprzedniej aplikacji</string>
     <string name="home_navigation_back_area_height">Wysokość obszaru gestu wstecz</string>
     <string name="home_navigation_back_area_width">Szerokość obszaru gestów wstecz</string>
     <string name="home_gesture_title2">Gest</string>

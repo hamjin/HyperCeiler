@@ -1014,12 +1014,10 @@
     <!--System launcher-->
     <string name="home_gesture">Жесты</string>
     <string name="home_navigation_title">Навигация</string>
-    <string name="home_navigation_quick_back">Вернуться к предыдущей программе</string>
     <string name="home_navigation_assist_left_slide">Слайд внизу слева</string>
     <string name="home_navigation_assist_right_slide">Слайд снизу справа</string>
     <string name="home_navigation_assist_left_slide_desc">Сдвинуть внутрь из левого нижнего угла экрана</string>
     <string name="home_navigation_assist_right_slide_desc">Сдвинуть внутрь из правого нижнего угла экрана</string>
-    <string name="home_navigation_quick_back_more">Проведите влево или вправо от края экрана для возврата к предыдущему приложению</string>
     <string name="home_navigation_disable_full_screen_back_gesture">Отключить полноэкранный жест назад</string>
     <string name="home_navigation_back_area_height">Высота области обратного жеста</string>
     <string name="home_navigation_back_area_width">Ширина области обратного жеста</string>

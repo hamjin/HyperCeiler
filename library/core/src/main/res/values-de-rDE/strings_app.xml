@@ -971,12 +971,10 @@
     <!--System launcher-->
     <string name="home_gesture">Gesten und Navigation</string>
     <string name="home_navigation_title">Navigation</string>
-    <string name="home_navigation_quick_back">Zur vorherigen App zurückkehren</string>
     <string name="home_navigation_assist_left_slide">Untere linke Ecke wischen</string>
     <string name="home_navigation_assist_right_slide">Untere rechte Ecke wischen</string>
     <string name="home_navigation_assist_left_slide_desc">Von der unteren linken Ecke des Bildschirms nach innen wischen</string>
     <string name="home_navigation_assist_right_slide_desc">Von der unteren rechten Ecke des Bildschirms nach innen wischen</string>
-    <string name="home_navigation_quick_back_more">Über den Bildschirm wischen, beginnend vom Rand, um zur vorherigen App zurückzukehren</string>
     <string name="home_navigation_disable_full_screen_back_gesture">Vollbild-Zurück-Geste deaktivieren</string>
     <string name="home_navigation_back_area_height">Zurück-Gestenbereich-Höhe</string>
     <string name="home_navigation_back_area_width">Zurück-Gestenbereich-Breite</string>

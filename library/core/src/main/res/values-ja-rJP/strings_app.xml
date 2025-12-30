@@ -1014,12 +1014,10 @@
     <!--System launcher-->
     <string name="home_gesture">ジェスチャーとナビゲーション</string>
     <string name="home_navigation_title">ナビゲーション</string>
-    <string name="home_navigation_quick_back">前のアプリに戻る</string>
     <string name="home_navigation_assist_left_slide">左下隅のスライド</string>
     <string name="home_navigation_assist_right_slide">右下隅のスライド</string>
     <string name="home_navigation_assist_left_slide_desc">画面の左下隅から内側にスライド</string>
     <string name="home_navigation_assist_right_slide_desc">画面の右下隅から内側にスライド</string>
-    <string name="home_navigation_quick_back_more">画面の端から横にスワイプすると前のアプリに戻ります</string>
     <string name="home_navigation_disable_full_screen_back_gesture">全画面表示の戻るジェスチャーを無効にする</string>
     <string name="home_navigation_back_area_height">戻るジェスチャー領域の高さ</string>
     <string name="home_navigation_back_area_width">戻るジェスチャー領域の幅</string>

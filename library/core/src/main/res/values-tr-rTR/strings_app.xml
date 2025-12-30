@@ -879,12 +879,10 @@
     <!--System launcher-->
     <string name="home_gesture">Hareket</string>
     <string name="home_navigation_title">Navigasyon</string>
-    <string name="home_navigation_quick_back">Önceki uygulamaya geri dön</string>
     <string name="home_navigation_assist_left_slide">Sol alt köşe kaydırağı</string>
     <string name="home_navigation_assist_right_slide">Sağ alt köşe kaydırağı</string>
     <string name="home_navigation_assist_left_slide_desc">Ekranın sol alt köşesinden içeri doğru kaydırın</string>
     <string name="home_navigation_assist_right_slide_desc">Ekranın sağ alt köşesinden içeri doğru kaydırın</string>
-    <string name="home_navigation_quick_back_more">Önceki uygulamaya geri dönmek için kenardan başlayarak ekran boyunca kaydırın</string>
     <string name="home_navigation_back_area_height">Geri hareket alanı yüksekliği</string>
     <string name="home_navigation_back_area_width">Geri hareket alanı genişliği</string>
     <string name="home_gesture_title2">Hareket</string>
